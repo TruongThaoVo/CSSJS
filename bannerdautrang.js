@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2Ksm1CL' target='_blank'><img src='https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/38248781_661441757564516_2568772729457082368_o.jpg?_nc_cat=0&oh=c126096a510f1056e6df2f1932d68742&oe=5BD2ED27' width='500px'/><br/>13 Trung tâm Học Cơ Khí</a>. Học tại Bình Tân hoặc Thủ Đức. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2Ksm1CL' target='_blank'><img src='https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/38248781_661441757564516_2568772729457082368_o.jpg?_nc_cat=0&oh=c126096a510f1056e6df2f1932d68742&oe=5BD2ED27' width='500px'/><br/> Trung tâm Học Cơ Khí</a>. Học tại Bình Tân hoặc Thủ Đức. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
